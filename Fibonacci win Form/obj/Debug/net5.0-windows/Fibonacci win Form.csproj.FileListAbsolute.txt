@@ -1,0 +1,18 @@
+C:\Users\Mahdi\source\repos\Fibonacci win Form\Fibonacci win Form\bin\Debug\net5.0-windows\Fibonacci win Form.exe
+C:\Users\Mahdi\source\repos\Fibonacci win Form\Fibonacci win Form\bin\Debug\net5.0-windows\Fibonacci win Form.deps.json
+C:\Users\Mahdi\source\repos\Fibonacci win Form\Fibonacci win Form\bin\Debug\net5.0-windows\Fibonacci win Form.runtimeconfig.json
+C:\Users\Mahdi\source\repos\Fibonacci win Form\Fibonacci win Form\bin\Debug\net5.0-windows\Fibonacci win Form.runtimeconfig.dev.json
+C:\Users\Mahdi\source\repos\Fibonacci win Form\Fibonacci win Form\bin\Debug\net5.0-windows\Fibonacci win Form.dll
+C:\Users\Mahdi\source\repos\Fibonacci win Form\Fibonacci win Form\bin\Debug\net5.0-windows\ref\Fibonacci win Form.dll
+C:\Users\Mahdi\source\repos\Fibonacci win Form\Fibonacci win Form\bin\Debug\net5.0-windows\Fibonacci win Form.pdb
+C:\Users\Mahdi\source\repos\Fibonacci win Form\Fibonacci win Form\obj\Debug\net5.0-windows\Fibonacci win Form.csproj.AssemblyReference.cache
+C:\Users\Mahdi\source\repos\Fibonacci win Form\Fibonacci win Form\obj\Debug\net5.0-windows\Fibonacci_win_Form.Form1.resources
+C:\Users\Mahdi\source\repos\Fibonacci win Form\Fibonacci win Form\obj\Debug\net5.0-windows\Fibonacci win Form.csproj.GenerateResource.cache
+C:\Users\Mahdi\source\repos\Fibonacci win Form\Fibonacci win Form\obj\Debug\net5.0-windows\Fibonacci win Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\source\repos\Fibonacci win Form\Fibonacci win Form\obj\Debug\net5.0-windows\Fibonacci win Form.AssemblyInfoInputs.cache
+C:\Users\Mahdi\source\repos\Fibonacci win Form\Fibonacci win Form\obj\Debug\net5.0-windows\Fibonacci win Form.AssemblyInfo.cs
+C:\Users\Mahdi\source\repos\Fibonacci win Form\Fibonacci win Form\obj\Debug\net5.0-windows\Fibonacci win Form.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\source\repos\Fibonacci win Form\Fibonacci win Form\obj\Debug\net5.0-windows\Fibonacci win Form.dll
+C:\Users\Mahdi\source\repos\Fibonacci win Form\Fibonacci win Form\obj\Debug\net5.0-windows\ref\Fibonacci win Form.dll
+C:\Users\Mahdi\source\repos\Fibonacci win Form\Fibonacci win Form\obj\Debug\net5.0-windows\Fibonacci win Form.pdb
+C:\Users\Mahdi\source\repos\Fibonacci win Form\Fibonacci win Form\obj\Debug\net5.0-windows\Fibonacci win Form.genruntimeconfig.cache
